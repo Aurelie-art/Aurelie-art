@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 📫 Pour me contacter: aureliedossantos91@gmail.com
 
 ## Mes Skills
-***
 ![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/skills.png)
 
 ## Social
