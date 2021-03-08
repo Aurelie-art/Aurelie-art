@@ -1,5 +1,5 @@
 ### O'Hello 👋
-
+***
 <!--
 **Aurelie-art/Aurelie-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,13 +15,18 @@ Here are some ideas to get you started:
 
 ![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/japon.gif)
 
-- 📌 Projet de fin de formation: https://github.com/Aurelie-art/OStella en tant de développeuse PHP/Wordpress, avec une team full wordpress.
-Stack: Wordpress, PHP, JavaScript, SQL, déploiement AWS EC2
+- 📌 **Projet de fin de formation**: https://github.com/Aurelie-art/OStella en tant de développeuse PHP/Wordpress, avec une team full wordpress.
+**Stack**: Wordpress, PHP, JavaScript, SQL, déploiement AWS EC2
 - 🌱 Bientôt en cours d'apprentissage de React et Symfony, et continuation de VueJs..
 - 📜 Passage du diplôme et certification Opquast fin mars 2021 🤞🏻
 - 📫 Pour me contacter: aureliedossantos91@gmail.com
 
 ## Mes Skills
+***
 ![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/skills.png)
+
+## Social
+***
+www.linkedin.com/in/auréliedossantos
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aurelie-art.visitor-badge)
