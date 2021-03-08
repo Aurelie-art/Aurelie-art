@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/skills.png)
 
 ## Social
-***
 www.linkedin.com/in/auréliedossantos
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aurelie-art.visitor-badge)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aurelie-art.visitor-badge)
