@@ -2,7 +2,7 @@
 
 <!--
 **Aurelie-art/Aurelie-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Cover](https://github.com/Aurelie-art/Aurelie-art/main/img/jour.jpg)
+
 
 Here are some ideas to get you started:
 
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Cover](https://github.com/Aurelie-art/Aurelie-art/main/img/jour.jpg)
