@@ -1,4 +1,4 @@
-   # ![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/cat.gif)O'Hi !
+ # *![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/cat.gif)O'Hi* !
 ***
 <!--
 **Aurelie-art/Aurelie-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
