@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - 📜 Passage du diplôme et certification Opquast fin mars 2021 🤞🏻
 - 📫 Pour me contacter: aureliedossantos91@gmail.com
 
-## Mes Skills
+## *Mes Skills*
 ![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/skills.png)
 
-## Social
+## *Social*
 [![linkedin](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/linkedin.png)](www.linkedin.com/in/auréliedossantos)
 
 
