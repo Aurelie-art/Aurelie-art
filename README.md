@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/japon.gif)
+
+Mes Skills
+![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/skills.gif)
