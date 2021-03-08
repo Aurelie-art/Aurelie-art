@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 ![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/japon.gif)
 
-Mes Skills
-![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/skills.gif)
+## Mes Skills
+![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/skills.png)
