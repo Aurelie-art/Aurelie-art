@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📌 **Projet de fin de formation**: https://github.com/Aurelie-art/OStella en tant de développeuse PHP/Wordpress, avec une team full wordpress.
 **Stack**: Wordpress, PHP, JavaScript, SQL, déploiement AWS EC2
 - 🌱 Bientôt en cours d'apprentissage de React et Symfony, et continuation de VueJs..
-- 📜 Passage du diplôme et certification Opquast fin mars 2021 🤞🏻
+- 📜 Certification Opquast Avancé 830 pts
 - 📫 Pour me contacter: aureliedossantos91@gmail.com
 
 ## *Mes Skills*
