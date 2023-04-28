@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/japon.gif)
 
 - 📌 **Projet de fin de formation**: https://github.com/Aurelie-art/OStella en tant de développeuse PHP/Wordpress, avec une team full wordpress.https://Fans-services.fr/OStella
-**Stack**: Wordpress, PHP, JavaScript, SQL, déploiement AWS EC2
-- 🌱 En cours d'apprentissage NodeJS/Typescript
+**Stack**: Wordpress, PHP, JavaScript, SQL, déploiement AWS EC2 
+- 🌱 En cours d'apprentissage 
 - 🔭 Travaille actuellement chez Scorpulting Développeuse Back-end PHP/Symfony
 - 📜 Certification Opquast Avancé 830 pts
 - 📫 Pour me contacter: aureliedossantos91@gmail.com
