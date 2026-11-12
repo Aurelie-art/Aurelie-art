@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 ## *Mes Skills*
 <img width="2170" height="725" alt="skills" src="https://github.com/user-attachments/assets/3b77bf9e-09fa-43f5-a1e4-f3a1bea70e49" />
-)
 
 
 
