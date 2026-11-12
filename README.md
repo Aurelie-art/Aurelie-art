@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - 📫 Pour me contacter: aureliedossantos.proO@gmail.com
 
 ## *Mes Skills*
-<img width="2170" height="725" alt="skills" src="https://github.com/user-attachments/assets/3b77bf9e-09fa-43f5-a1e4-f3a1bea70e49" />
+<img width="2167" height="725" alt="skills3" src="https://github.com/user-attachments/assets/72deabc8-2840-4831-91e0-50513e342713" />
+
 
 
 
