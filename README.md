@@ -1,11 +1,5 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=3000&pause=1000&color=1BA0D7&center=true&vCenter=true&width=800&height=80&letterSpacing=3&lines=Développeuse+fullstack;Sécurité+applicative;Cybersécurité;Product+Owner)](https://git.io/typing-svg)
-
-</div>
- 
  # *![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/cat.gif)O'Hi* !
-***
+
 <!--
 **Aurelie-art/Aurelie-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -18,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=26&duration=3000&pause=1000&color=FF4FD8&center=true&vCenter=true&width=700&height=50&letterSpacing=3&lines=D%C3%A9veloppeuse+fullstack;S%C3%A9curit%C3%A9+applicative;Cybers%C3%A9curit%C3%A9;Product+Owner)](https://git.io/typing-svg)
+
+</div>
 
 ![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/japon.gif)
 
@@ -43,7 +42,6 @@ Here are some ideas to get you started:
 
 ## *Social*
 [![linkedin](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/linkedin.png)](https://www.linkedin.com/in/aur%C3%A9liedossantos?trk=people-guest_people_search-card)
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aurelie-art.visitor-badge)
 
