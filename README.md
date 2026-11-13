@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 - 📜 Certification Opquast Avancé 830 pts
 - 📫 Pour me contacter: aureliedossantos.proO@gmail.com
 
-## *Mes Skills*
+
+## *<img src="https://github.com/Aurelie-art/Aurelie-art/blob/main/img/img2.gif" width="25" /> Skills*
 <img width="2167" height="725" alt="skills3" src="https://github.com/user-attachments/assets/72deabc8-2840-4831-91e0-50513e342713" />
 
 
