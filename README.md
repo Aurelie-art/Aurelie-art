@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=3000&pause=1000&color=1BA0D7&center=true&vCenter=true&width=800&height=80&letterSpacing=3&lines=Développeuse+fullstack;Sécurité+applicative;Cybersécurité;Product+Owner)](https://git.io/typing-svg)
+
+</div>
+ 
  # *![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/cat.gif)O'Hi* !
 ***
 <!--
