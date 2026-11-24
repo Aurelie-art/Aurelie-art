@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aurelie-art/Aurelie-art/main/img/pc_transparent.gif" alt="Cover" width="600">
+  <img src="https://raw.githubusercontent.com/Aurelie-art/Aurelie-art/main/img/pc_crop.gif" alt="Cover" width="600">
 </p>
+
 
 <!--
 ![Cover](https://github.com/Aurelie-art/Aurelie-art/blob/main/img/japon.gif)
